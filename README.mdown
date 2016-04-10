@@ -1,0 +1,3 @@
+v-model  v-for v-on:click
+
+
